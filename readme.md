@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [0xNullLight]
+# 👋 Hey, I'm 0xNullLight
 
 🎓 FinTech Bootcamp Grad | 🧠 Cybersecurity Dropout Turned Web3 Builder  
 🧱 Exploring the intersection of blockchain, decentralization, and digital identity  
