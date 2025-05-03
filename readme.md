@@ -1,8 +1,11 @@
 # 👋 Hey, I'm [0xNullLight]
 
 🎓 FinTech Bootcamp Grad | 🧠 Cybersecurity Dropout Turned Web3 Builder
+
 🧱 Bridging decentralization, digital identity & ethical innovation
+
 🔐 Advocate for secure systems, data privacy, and responsible AI
+
 💻 Former–Document Reviewer (eDiscovery) | Now building dApps with Solidity + full-stack tech
 
 ---
