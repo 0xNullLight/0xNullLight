@@ -103,6 +103,10 @@ Because in Web3, in life, in markets, in mind—
 It’s not about control.
 It’s about **alignment**.
 
+    "No flow without foundation. No order without chaos."
+
+The challenge is cultivating adaptive stability—like a surfer who moves with the wave, but keeps centered on the board.
+
 ---
 
 ## 📈 GitHub Stats
