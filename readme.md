@@ -57,7 +57,7 @@
 ## ✨ About Me
 
 - 🌱 Currently deepening: Solidity, Foundry, zk-tech  
-- 🔍 Interests: Web3 security, smart contracts  
+- 🔍 Interests: Western & Eastern Philosophy, Web3 security, smart contracts
 - 🧘 Philosophy:  
   > **"Decentralization ≠ Chaos | Centralization ≠ Control — It’s all Yin & Yang."**  
   > **"Security isn't about being unbreakable — it's about being improbable to break."**
