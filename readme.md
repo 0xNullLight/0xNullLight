@@ -112,6 +112,5 @@ The challenge is cultivating adaptive stability—like a surfer who moves with t
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xNullLight&show_icons=true&theme=radical&hide_border=true" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xNullLight&layout=compact&theme=radical&hide_border=true" height="180px"/>
 </div>
